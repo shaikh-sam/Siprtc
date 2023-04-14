@@ -1,6 +1,5 @@
 <Response>
-   
-    <Gather numDigits="1">
+   <Gather numDigits="1">
          <Say loop="1" voice="woman" language="en-IN">Welcome to our customer service</Say>
         <Say loop="1" voice-"man" language= "en-IN">press 1 for sales</Say>
         <Say loop="1" voice-"man" language= "en-IN">press 2 for buy</Say>
