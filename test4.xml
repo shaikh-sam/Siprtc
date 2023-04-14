@@ -1,0 +1,14 @@
+<Response>
+
+        <Say loop="1" voice="woman" language="en-IN">Welcome to our customer service</Say>     
+        <Gather numDigits="10" timeout="1" finishOnKey="*">
+        <Say loop="1" voice="man" language= "en-IN">press 1 for sales</Say>
+        <Say loop="1" voice="man" language= "en-IN">press 2 for buy</Say>
+        <Say loop="1" voice="man" language= "en-IN">press 3 for selling</Say>
+        <Say loop="1" voice="man" language= "en-IN">press 4 for funding</Say>
+        <Say loop="1" voice="man" language= "en-IN">press 5 for products</Say>
+        <Say loop="1" voice="man" language= "en-IN">press 9 for talk to excecutive </Say>
+
+</Gather>
+
+</Response>
