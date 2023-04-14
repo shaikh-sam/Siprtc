@@ -1,4 +1,0 @@
-<Response>
-      <Say loop="20" voice="woman" language="en-IN">Welcome to our customer service
-<Play digits="wwww3"></Play></Say>     
-</Response>
