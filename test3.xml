@@ -1,5 +1,4 @@
 <Response>
-
         <Say loop="1" voice="woman" language="en-IN">Welcome to our customer service</Say>     
         <Gather numDigits="10" timeout="1" finishOnKey="*">
         <Say loop="1" voice="man" language= "en-IN">press 1 for sales</Say>
