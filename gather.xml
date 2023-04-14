@@ -1,0 +1,5 @@
+<Response>
+    <Gather finishOnKey="9" timeout="3" numDigits="10">
+        <Say voice="woman" language="en-IN" loop="2">Please enter your phone number .</Say>
+    </Gather>
+</Response>
